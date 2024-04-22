@@ -1,0 +1,3 @@
+Learner name: Booked Lesssons - Attended Lessons - Cancelled Lessons
+Teagan Stevens: 1 - 3 - 1
+Elsie Cooper: 1 - 2 - 1
